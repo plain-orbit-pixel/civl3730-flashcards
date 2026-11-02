@@ -1,8 +1,8 @@
 # CIVL 3730 midterm flashcards
 
-90 core revision cards and 20 spelling cards, with an Anki-style review session. Due cards take priority and new cards are shuffled. After revealing an answer, choose Again, Hard, Good or Easy; the buttons preview the next review interval. FSRS calculates the review dates. The site is responsive for phones, contains its mathematical fonts and scheduler, and uses browser-local storage. Progress is specific to each browser/device and does not sync through GitHub or AnkiWeb.
+110 core revision cards and 20 spelling cards (130 total), with an Anki-style review session. The 20 supplied application cards are mixed into their existing topics. Due cards take priority and new cards are shuffled. After revealing an answer, choose Again, Hard, Good or Easy; the buttons preview the next review interval. FSRS calculates the review dates. The site is responsive for phones, contains its mathematical fonts and scheduler, and uses browser-local storage. Progress is specific to each browser/device and does not sync through GitHub or AnkiWeb.
 
-Open https://plain-orbit-pixel.github.io/civl3730-flashcards/ or download index.html and open it in a browser. Spelling inputs disable spellcheck and autocorrect. Reveal answers only after attempting recall. The 20 spelling cards keep their own schedule, separate from understanding the 90 core cards. Previous flags are retained; spaced-repetition history starts with the new review buttons.
+Open https://plain-orbit-pixel.github.io/civl3730-flashcards/ or download index.html and open it in a browser. Spelling inputs disable spellcheck and autocorrect. Reveal answers only after attempting recall. The 20 spelling cards keep their own schedule, separate from understanding the 110 core cards. Existing IDs and saved review schedules are preserved when the 20 application cards are added.
 
 Use Practice all cards to revise ahead of the schedule. Those ratings also update review dates. Skips are temporary for the current session; changing/restarting sessions brings them back. Undo last rating restores the prior rating and review date. Export progress saves ratings, schedule and review logs as a JSON record; there is currently no restore UI.
 
@@ -11,6 +11,8 @@ Use Practice all cards to revise ahead of the schedule. Those ratings also updat
 Use the dictionary-style **UK ▶ / US ▶** buttons on a spelling card to listen before revealing its spelling, or hear it again after checking. Other cards provide question and answer reading in either accent. Choose Normal or Slow playback. An English voice can be chosen under the study instructions; it is used only for the matching accent. Audio uses browser/device voices, not Cambridge recordings, and stops on card changes. A matching UK or US voice is required for that accent. Some voices may require a connection, and technical pronunciations depend on the selected voice. If speech is unavailable, the review deck still works and shows a message suggesting Safari or Chrome.
 
 ## Scope
+
+The application cards come from the supplied CIVL3730_Application_Flashcards_20.pdf and are integrated as G11-G13, P21-P23, C16-C18, M11-M14, E11-E13 and S26-S29. Six schematic figures are retained. M11 explicitly labels in-plane principal stresses, S28 states its major/minor assumption, and C17 labels the illustrative specific gravity assumption. Numerical results were independently recalculated; original past-paper source pointers in the uploaded PDF were not reverified.
 
 Topics I-VI plus Lab 1 and Lab 2, following the course midterm review. Topic VI scope is pages 1-67 and 86-89. Source labels refer to PDF pages of the original course notes and lab manuals. Questions and explanations are independently written revision summaries; numerical examples are hypothetical. Original lecture PDFs and laboratory records are not included.
 
