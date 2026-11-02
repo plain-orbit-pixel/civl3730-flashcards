@@ -6,6 +6,10 @@ Open https://plain-orbit-pixel.github.io/civl3730-flashcards/ or download index.
 
 Use Practice all cards to revise ahead of the schedule. Those ratings also update review dates. Skips are temporary for the current session; changing/restarting sessions brings them back. Undo last rating restores the prior rating and review date. Export progress saves ratings, schedule and review logs as a JSON record; there is currently no restore UI.
 
+## Pronunciation
+
+Use the dictionary-style **UK ▶ / US ▶** buttons on a spelling card to listen before revealing its spelling, or hear it again after checking. Other cards provide question and answer reading in either accent. Choose Normal or Slow playback. An English voice can be chosen under the study instructions; it is used only for the matching accent. Audio uses browser/device voices, not Cambridge recordings, and stops on card changes. A matching UK or US voice is required for that accent. Some voices may require a connection, and technical pronunciations depend on the selected voice. If speech is unavailable, the review deck still works and shows a message suggesting Safari or Chrome.
+
 ## Scope
 
 Topics I-VI plus Lab 1 and Lab 2, following the course midterm review. Topic VI scope is pages 1-67 and 86-89. Source labels refer to PDF pages of the original course notes and lab manuals. Questions and explanations are independently written revision summaries; numerical examples are hypothetical. Original lecture PDFs and laboratory records are not included.
